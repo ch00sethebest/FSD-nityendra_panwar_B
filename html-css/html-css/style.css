@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background: #f2f2f2;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    background: white;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+img {
+    width: 120px;
+    border-radius: 50%;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
