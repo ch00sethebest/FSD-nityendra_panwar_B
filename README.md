@@ -1,14 +1,9 @@
-# Assignment-2: Student Portfolio Web Page
+## Assignment-3: Form Validation using JavaScript
 
-This assignment demonstrates the design and development of a
-static student portfolio web page using HTML5 and CSS3.
+This assignment demonstrates client-side form validation
+using JavaScript and DOM manipulation.
 
-## Technologies Used
-- HTML5
-- CSS3
-
-## Folder Structure
-html-css/
-- index.html
-- style.css
-- images/
+Folder:
+javascript-validation/
+- form.html
+- script.js
